@@ -1,0 +1,2 @@
+# Smart-Study-Portal
+The Smart Study Portal is an intelligent, student-focused web application designed to make learning easier, faster, and more organized. It combines NLP, computer vision, study planning, reminders, and interactive quizzes into one powerful platform — helping students learn smarter, not harder.
